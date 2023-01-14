@@ -6,10 +6,15 @@ For more details read [this]().
 ### Example:
 
 ```python
+from main import PhoneVerification
+
+# Get verification code
 phone_verification = PhoneVerification(secret_key='VEcGULCPPAuAaD7QtcMd')
 state, verification_code = phone_verification.generate_verification_state(phone_number='+12025550331')
 print('This is state: ', state)
 print('This is verification code: ', verification_code)
+
+# Validate verification code
 validation_result = phone_verification.validate_state(state, verification_code)
 print('This is validation result: ', validation_result)
 ```
