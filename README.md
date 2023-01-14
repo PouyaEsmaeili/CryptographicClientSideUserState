@@ -2,7 +2,7 @@ This repository shows a cryptographic way to validate user phone number in regis
 
 Here is the sequence diagram for this flow:
 
-![sequence diagram](/sequence-diagram.png)
+![sequence diagram](/sequence-diagram.png "User Registration Flow")
 
 For more details read [this]().
 
