@@ -1,5 +1,8 @@
 This repository shows a cryptographic way to validate user phone number in registration flow.
 
+Here is the sequence diagram for this flow:
+
+![sequence diagram](/sequence-diagram.png)
 
 For more details read [this]().
 
