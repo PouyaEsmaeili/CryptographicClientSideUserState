@@ -4,7 +4,7 @@ Here is the sequence diagram for this flow:
 
 ![sequence diagram](/sequence-diagram.png "User Registration Flow")
 
-For more details read [this]().
+For more details read [this](https://medium.com/@pouya.esmaeili.g/a-cryptographic-client-side-user-state-dd6085100c73?source=friends_link&sk=eeec49909cfd51c8062262358b7a923d).
 
 ### Example:
 
